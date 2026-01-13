@@ -1,0 +1,8 @@
+{
+  "name": "Dhaka-17 Election Portal",
+  "description": "A specialized portal for the Dhaka-17 constituency elections in Bangladesh, providing candidate profiles, manifestos, event tracking, and a Gemini-powered AI assistant for voter queries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
